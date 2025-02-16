@@ -1,1 +1,1 @@
-# Offensive_language_Identification_using_BERT
+# Offensive language identification using BERT
